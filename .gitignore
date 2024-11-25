@@ -1,0 +1,40 @@
+# Build-Verzeichnisse
+bin/
+obj/
+out/
+
+# Rider/JetBrains IDE-Dateien
+.idea/
+*.sln.iml
+
+# VSCode-Settings
+.vscode/
+
+# Paket-Manager
+*.nuget/
+
+# Benutzerbezogene Konfigurationsdateien
+*.user
+*.swp
+*.suo
+
+# Logs
+*.log
+
+# Temporäre Dateien
+*.tmp
+*.DS_Store
+
+# Docker
+.dockerignore
+
+# Environment-Dateien
+.env
+.env.*
+
+# Veröffentlichtes Artefakt
+*.dll
+*.pdb
+*.exe
+*.db
+

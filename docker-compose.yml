@@ -1,0 +1,6 @@
+﻿services:
+  apipjf:
+    image: apipjf
+    build:
+      context: .
+      dockerfile: APIPJF/Dockerfile

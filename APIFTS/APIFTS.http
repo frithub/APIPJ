@@ -1,0 +1,6 @@
+@APIFTS_HostAddress = http://localhost:5089
+
+GET {{APIFTS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
